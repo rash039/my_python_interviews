@@ -1,0 +1,17 @@
+developer
+localhost
+code change, commit statement, testcases : unitest methods (input, output) decided, excel file, browsers
+
+
+
+staging
+http:different:
+stage unitest methods (input, ouput) decided
+PR 
+
+
+git.sh
+production : 
+prod unitest methods (input, ouput) decided
+
+
