@@ -14,6 +14,10 @@ for records in data:
             result =  [records["age"]] + result
 print(result)
 
+test_list = [1, 15, 3, 4, 5, 7]
+test_list.reverse()
+set(test_list)  
+
 # # initializing list 
 test_list = [1, 15, 3, 4, 5, 7]
   

@@ -9,6 +9,9 @@ print(upper(str1))
 #result = lambda(i, i if (i%2 == 0) ?  i: "")
 #print(result(2))
 
+# Find the first element that is greater than 5
+greater_than_five = next((num for num in numbers if num > 5), None)
+
 # EVEN numbers 
 even_numbers = [num for num in range(1, 10) if num % 2 == 0 ]
 
