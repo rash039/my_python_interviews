@@ -25,3 +25,15 @@ print("name_1 = ", name_1, "and name_2 = ", name_2)
 
 #name_1 =  Aarun and name_2 =  Tarun
 
+# 2. String Concatenation:
+my_string = "Hello"
+new_string = my_string + ", world!" # Creates a new string with the concatenated result
+print("This is our new string with the concatenated result")
+print(new_string)
+
+
+# TUPLES
+ 
+tuple_variable1 = (1,[4, 5])
+tuple_variable1[1][1] = 9
+# will give error 
