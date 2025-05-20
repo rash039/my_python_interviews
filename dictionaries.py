@@ -6,7 +6,7 @@ a.get('c', 'NA')
 
 
 
-# for loop
+# for loop lengthy list
 a = [1,23,345,34564,76,78, 34,523]
 >>> for index, fruit in enumerate(a):
 ...    print(f"{a[index]}")
